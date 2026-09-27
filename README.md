@@ -199,7 +199,7 @@ Vapi -> Manage_Reservation
 - SMS/WhatsApp confirmation
 - Admin dashboard
 
-## 📌 Portfolio Implementation
+## 📌 Project Implementation
 
 Built to demonstrate practical integration of voice AI, webhooks, Google Apps Script, and spreadsheet-based backend automation.
 
@@ -207,7 +207,7 @@ A sanitized n8n workflow file is included for portfolio demonstration.
 
 👉 [View / Download App Script Code](Code.gs)
 
-## 📞 Contact Me:
+## Author:
 
 **Faheem Abbas**
 
@@ -227,4 +227,3 @@ For custom implementation or commercial use, please <strong>Contact on:</strong>
 
 
 
-**#AI #AIAutomation #n8n #RAG #airtable #Pinecone #WhatsAppAutomation #Qdrant #AIEngineering #CallingAgents #bluemoonways**
