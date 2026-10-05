@@ -1,4 +1,4 @@
-# 📞 Blue Moon Restaurant AI phone receptionist
+# 📞 AI phone receptionist Blue Moon Restaurant 
 
 An AI-powered restaurant voice-agent backend built with **Vapi + Google Apps Script + Google Sheets**.
 
